@@ -10,7 +10,7 @@ Accept: application/json
 Content-Type: application/json
 
 {
-  "name": "Food"
+  "name": "Test"
 }
 
 ### Get category by id
